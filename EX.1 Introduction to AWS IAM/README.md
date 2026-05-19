@@ -27,20 +27,21 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Reviewed pre-created IAM users: user-1, user-2, user-3  
 - Explored IAM groups: EC2-Admin, EC2-Support, S3-Support  
 - Inspected managed and inline policies attached to groups  
-**Screenshot:**
-<img width="1919" height="1020" alt="Screenshot 2026-02-06 082904" src="https://github.com/user-attachments/assets/ca41ba91-8418-43bd-acb1-04cc4b1af902" />
+**Screenshot:**  
+![WhatsApp Image 2026-02-13 at 8 38 07 AM](https://github.com/user-attachments/assets/955fc8ae-7d1f-4959-8328-c246d8e2a38b)
 
- 
-(Add screenshot here)
+
+
+
 
 ### Task 2: Add Users to Groups
 - Added user-1 to the S3-Support group  
 - Added user-2 to the EC2-Support group  
 - Added user-3 to the EC2-Admin group  
-**Screenshot:**
-  <img width="1919" height="970" alt="Screenshot 2026-02-06 082116" src="https://github.com/user-attachments/assets/84391349-6c7a-4f4e-8327-083b9f552cf9" />
- 
-(Add screenshot here)
+**Screenshot:**  
+![WhatsApp Image 2026-02-13 at 8 38 21 AM](https://github.com/user-attachments/assets/2cebac96-5289-4455-8097-485e71a00757)
+
+
 
 ### Task 3: Test IAM User Permissions
 - Logged in using IAM sign-in URL  
@@ -48,9 +49,9 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Verified EC2 read-only access for user-2  
 - Verified EC2 administrative access for user-3  
 **Screenshot:**  
-(Add screenshot here)
+  ![WhatsApp Image 2026-02-13 at 8 29 51 AM](https://github.com/user-attachments/assets/6e1d551d-f73c-4a75-a0d3-7f8e19eb82c0)
 
-<img width="1916" height="994" alt="Screenshot 2026-02-06 082820" src="https://github.com/user-attachments/assets/f2d577fb-5d83-48c1-ad7e-411a52b718fc" />
+
 
 ## Workflow
 1. Accessed IAM console and reviewed users and groups.  
@@ -72,6 +73,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** KIRAN G **Reg No:** 212223040095
+**Name:** KIRAN G  **Reg No:** 212223040095
 **Course:** Introduction to Cloud Computing  
 
